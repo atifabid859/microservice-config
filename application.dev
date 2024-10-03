@@ -2,6 +2,7 @@ spring:
   application:
     name: Config-Dev
 
+
 eureka:
   client:
     register-with-eureka:
